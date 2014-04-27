@@ -1,0 +1,15 @@
+{
+  "name": "apr-26-peg",
+  "version": "0.0.0",
+  "description": "Playing with Peg.js!",
+  "main": "peg.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "author": "Tyler Florez (@qualiabyte)",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "~2.4.1",
+    "pegjs": "~0.8.0"
+  }
+}
